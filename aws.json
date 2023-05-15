@@ -381,7 +381,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "Adobe.exe",
+                    "name": "ryuk-bin.exe",
                     "hashes": {
                         "MD5": "5ac0f050f93f86e69026faea1fbb4450"
                     },
@@ -457,9 +457,9 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": " ASP:Ace-AL.bin",
+                    "name": "ruyk.bin",
                     "hashes": {
-                        "SHA-256": "16e1e886576d0c70af0f96e3ccedfd2e72b8b7640f817c08a82b95ff5d4b1218"
+                        "SHA-1": "3780f5828fc05bf74649393169f70fafb0ffed25"
                     },
                     "type": "file"
                 }
