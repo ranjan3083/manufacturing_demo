@@ -267,9 +267,9 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ryuk-bin.exe",
+                    "name": "bnslib.dll",
                     "hashes": {
-                        "MD5": "5ac0f050f93f86e69026faea1fbb4450"
+                        "MD5": "7b0685a96a56cd869251842bbd82399d"
                     },
                     "type": "file"
                 }
@@ -495,9 +495,9 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ryuk-bin.exe",
+                    "name": "bnslib.dll",
                     "hashes": {
-                        "SHA-1": "d241df7b9d2ec0b8194751cd5ce153e27cc40fa4"
+                        "SHA-1": "3a27f5f191a800a3ba4d57a52a982d3ebadaecb4"
                     },
                     "type": "file"
                 }
